@@ -9,3 +9,6 @@
 CloudyOasis/CloudyOasis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Hello people, this is the Narrator speaking. While Cloudy isn't certain this file is amazing, she wasn't sure whether to keep the original format. Hopefully you don't mind.  
+Oh, also, please put back the sensitive data. Have a nice stay !
