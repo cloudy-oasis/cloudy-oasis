@@ -1,8 +1,8 @@
 	hello ! i'm cloudy, a C++ enjoyer.
  
 	most of my repos are private,
- 		but feel free to look through what's public,
-  		that's the reason I made it public.
+ 	but feel free to look through what's public,
+  	that's the reason I made it public.
    	enjoy !
 
 <!---
